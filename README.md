@@ -1,5 +1,5 @@
 # balance-scale-weights-python
-=============
+=======
 an algorithmic solution in python to an interesting brain teaser regarding weights on a scale
 
 ### Problem:
